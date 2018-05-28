@@ -2,4 +2,4 @@
 
 <img src="https://mari-open.io/images/logos/logobeta.svg"> Maquettes d'architecture version: 0.0.3
 
-Méthode et Outils pour l'Architecture d'Entreprise Décentralisée
+Méthodes et Outils pour l'Architecture d'Entreprise Décentralisée
