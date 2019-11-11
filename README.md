@@ -2,9 +2,9 @@ POC @service.nom Solution - Version 2019-10-27
 ==============================================
 ![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/ms-solution.svg)
 
-![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-pac.svg)
-![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-ws.svg)
-![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-cycle.svg)
+![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-pac.svg)
+![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-ws.svg)
+![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-cycle.svg)
 ![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-design.svg)
 ![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-build.svg)
 ![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-run.svg)
@@ -23,7 +23,7 @@ Micro service & dépendances:
 * metier/ - ce repertoire contient les entités primaires et secondaires ansi que les modules de gestion des données (Référentiel, Qualité, Cycle...)
 * fonctionnel/ - ce repertoire contient les régles spécifiques d'orchestration, de transformation et de routage
 * technique/ - ce repertoire contient les enveloppes pour la gestion des ressources techniques
-* tests/ - ce repertoire contient les tests unitaires du micro service
+* tests/ - ce repertoire contient les tests unitaires, d'intégration et de non-régression du micro service
 
 
 Commandes
