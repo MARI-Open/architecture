@@ -11,7 +11,8 @@ POC @service.nom.toUpperCase() Solution - Version 2019-10-27
 
 # @service.nom.toUpperCase()
 -----------
- @service.nom.toUpperCase() @service.texte.
+
+@service.nom.toUpperCase() @service.texte.
  
 
 Contenu
