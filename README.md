@@ -1,16 +1,16 @@
-POC @service.nom Solution - Version 2019-10-27
+POC @service.nom..toUpperCase() Solution - Version 2019-10-27
 ==============================================
 ![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/ms-solution.svg)
 
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-pac.svg)
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-ws.svg)
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-cycle.svg)
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-design.svg)
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-build.svg)
-![](https://cdno2020.s3-eu-west-1.amazonaws.com/images/etat-run.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-pac.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-ws.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-cycle.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-design.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-build.svg)
+![](https://e9wtofe7li.execute-api.eu-west-1.amazonaws.com/Prod/images/etat-run.svg)
 
-#@service.nom
-@service.nom assume la gestion des logiciels de cache et leur configuration.
+#@service.nom.toUpperCase()
+@service.nom.toUpperCase() assume la gestion des logiciels de cache et leur configuration.
  
 
 Contenu
@@ -29,8 +29,8 @@ Micro service & dépendances:
 Commandes
 ------------------
 ```
-$ git clone https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/mscache
-$ cd MSCACHE
+$ git clone service.url
+$ cd service.nom.toLowerCase()
 $ npm install
 $ pip install --upgrade awscli
 $ npm test
@@ -42,7 +42,7 @@ $ sed -i.bak 's/\$PARTITION\$/'${PARTITION}'/g;s/\$AWS_REGION\$/'${AWS_REGION}'/
 Pour en savoir plus...
 -------------------------
 
-Decourez la démarche du MARI pour O2020:
+Que devons-nous faire pour optimiser notre démarche agile?
 https://#
 
 Que devons-nous faire avant de mettre un micro service en production?
